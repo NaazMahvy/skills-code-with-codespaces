@@ -3,6 +3,7 @@
     {
       "name": "Launch Python",
       "type": "debugpy",
+      "category": "normal",
       "request": "launch",
       "program": "src/hello.py",
       "console": "integratedTerminal"
